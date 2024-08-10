@@ -28,3 +28,6 @@
     * [（三）服务器](java-kai-fa-gui-fan/liu-gong-cheng-jie-gou/fu-wu-qi.md)
   * [附1：版本历史](java-kai-fa-gui-fan/ban-ben-li-shi.md)
   * [附2：专有名词](java-kai-fa-gui-fan/ben-shou-ce-zhuan-you-ming-ci.md)
+* [具体表设计要求](ju-ti-biao-she-ji-yao-qiu/README.md)
+  * [档案表](ju-ti-biao-she-ji-yao-qiu/dang-an-biao.md)
+  * [附1：单词对照](ju-ti-biao-she-ji-yao-qiu/fu-1-dan-ci-dui-zhao.md)
